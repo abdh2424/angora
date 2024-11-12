@@ -1,0 +1,26 @@
+/* sm */
+@media screen and (min-width:640px) {
+
+}
+
+/* md */
+@media screen and (min-width:768px) {
+	#home .middel .contact-home h1{
+		font-size: 4.4rem;
+        font-weight: 300;
+	}
+}
+
+/* lg */
+@media screen and (min-width:1024px) {
+	#home .middel .contact-home h1{
+		font-size: 4rem;
+		font-family: var(--font-h1);
+	}
+}
+
+/* xl */
+@media screen and (min-width:1280px) {
+
+}
+
